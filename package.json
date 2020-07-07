@@ -4,7 +4,7 @@
   "description": "Who Owes What To Whom",
   "main": "app/main.js",
   "dependencies": {
-    "electron": "^3.0.10"
+    "electron": "^7.2.4"
   },
   "devDependencies": {
     "babel-eslint": "^7.1.1",
